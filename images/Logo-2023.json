@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "Logo-2023",
+    "FileName": "Logo-2023.png",
+    "Extension": "png",
+    "ContentHash": "6f0e76d"
+  }
+}
